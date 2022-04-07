@@ -1,3 +1,4 @@
+#This is basic game project on python. This game is similar like the game Stone-paper-scissors.
 D = {"S": 1, "W": 2, "G": 3 }
 i = 0
 c = 0
